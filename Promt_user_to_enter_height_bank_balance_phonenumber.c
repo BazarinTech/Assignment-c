@@ -1,6 +1,6 @@
 /*
-Name:GITHINJI VENANZIO GATHU
-Regestraion number:CT101/G/26437/25
+Name:BAZARIN NGIGI WANYORO
+Regestraion number:CT101/G/29270/25
 Description:PROGRAM TO PROMPT THE USER TO ENTER:
              1.HEIGHT
              2.BANK BALANCE
